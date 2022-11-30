@@ -1,3 +1,3 @@
 # Blackjack
 Novice level Blackjack
-Thi is a Readme file
+This is a Readme file
