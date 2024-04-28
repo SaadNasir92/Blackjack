@@ -14,18 +14,18 @@ This project is a simple command-line Blackjack game implemented in Python. It a
 - **Random**: Python module utilized for card dealing.
 
 ## How to Run the Game
-1. Clone the repository to your local machine:
+1. **Clone the repository to your local machine:**
    ```bash
    git clone https://github.com/SaadNasir92/Blackjack
 
-2. Make sure Python is installed on your machine. If not, download and install it from python.org.
+2. **Make sure Python is installed on your machine. If not, download and install it from python.org.**
 
-3. Navigate to the blackjack directory containing the main.py file and run the following command in the terminal:
+3. **Navigate to the blackjack directory containing the main.py file and run the following command in the terminal:**
    ```bash
    cd Blackjack
    python main.py
 
-4. Follow the on-screen prompts to play the game.
+4. **Follow the on-screen prompts to play the game.**
 
 ## Code Example
 ```python
