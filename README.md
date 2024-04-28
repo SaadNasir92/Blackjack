@@ -18,3 +18,29 @@ This project is a simple command-line Blackjack game implemented in Python. It a
 1. Clone the repository to your local machine:
    ```bash
    git clone [https://github.com/SaadNasir92/Blackjack]
+
+2. Make sure Python is installed on your machine. If not, download and install it from python.org.
+
+3. Navigate to the directory containing the game files and run the following command in the terminal:
+   ```bash
+    python blackjack.py
+
+4. Follow the on-screen prompts to play the game.
+
+## Code Example
+```python
+def deal_cards(deck):
+    """Deals cards. Returns a random list representing a hand."""
+    hand = []
+    cards = list(deck.keys())
+    for _ in range(2):
+        hand.append(random.choice(cards))
+    return hand
+```
+##  Lessons Learned
+This project enhanced my understanding of Python programming, particularly in using control structures, functions, and managing state. It was an excellent exercise in applying theoretical knowledge in a practical, fun application.
+
+## Future Improvements
+- User Interface: Implement a graphical user interface (GUI) to improve user interaction.
+- Multiplayer Functionality: Add features to play against other players online.
+- Advanced Betting Strategies: Introduce more complex betting strategies and variations of Blackjack rules.
