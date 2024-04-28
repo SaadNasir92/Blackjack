@@ -1,4 +1,4 @@
-# Novice Blackjack Game in Python
+# Python Blackjack Simulator
 
 ## Description
 This project is a simple command-line Blackjack game implemented in Python. It allows players to experience a classic blackjack game against a virtual dealer, with features including card dealing, hand evaluations, betting, and decision-making (hit or stay).
@@ -12,7 +12,6 @@ This project is a simple command-line Blackjack game implemented in Python. It a
 ## Technologies Used
 - **Python**: Main programming language used.
 - **Random**: Python module utilized for card dealing.
-- **Art**: Module used to incorporate custom ASCII art for an enhanced game presentation.
 
 ## How to Run the Game
 1. Clone the repository to your local machine:
@@ -39,7 +38,7 @@ def deal_cards(deck):
     return hand
 ```
 ##  Lessons Learned
-This project enhanced my understanding of Python programming, particularly in using control structures, functions, and managing state. It was an excellent exercise in applying theoretical knowledge in a practical, fun application.
+This project enhanced my understanding of Python programming, particularly in using control structures, functions, and managing state. It was an excellent exercise in applying theoretical knowledge in a practical, fun application. This project was my gateway to the love of python. 
 
 ## Future Improvements
 - User Interface: Implement a graphical user interface (GUI) to improve user interaction.
