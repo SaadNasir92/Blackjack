@@ -21,9 +21,10 @@ This project is a simple command-line Blackjack game implemented in Python. It a
 
 2. Make sure Python is installed on your machine. If not, download and install it from python.org.
 
-3. Navigate to the directory containing the game files and run the following command in the terminal:
+3. Navigate to the blackjack directory containing the main.py file and run the following command in the terminal:
    ```bash
-    python blackjack.py
+   cd Blackjack
+   python main.py
 
 4. Follow the on-screen prompts to play the game.
 
